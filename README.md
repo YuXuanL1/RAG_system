@@ -14,7 +14,7 @@ This project is Comprehensive RAG competition hosted by META on the [AIcrowd web
 - Experiment with different LLMs and settings, such as quantization to optimize performance and efficiency.
 - Fine-tune the LLM on relevant datasets to further enhance its accuracy and adaptability for this specific task.
 
-## Illustration of Our framework
+## Illustration of Framework
 ![螢幕擷取畫面 2025-03-16 160725](https://github.com/user-attachments/assets/5083161f-6643-4063-a817-0e1c644e447d)
 
 ## Report
