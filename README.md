@@ -111,7 +111,7 @@ our multiple submissions.
 
 ## Results
 We achieved continuous improvement with each attempt, and the above process represents
-our highest-scoring approach, achieving a score of 0.003.
+our highest-scoring approach, achieving a score of 0.003. (increased accuracy by 50%)
 
 Our preprocessing method, while fast and convenient, also comes with some significant
 drawbacks. 
